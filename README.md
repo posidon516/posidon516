@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/posidon516">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashpandey474&theme=radical" alt="GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=posidon516&theme=radical" alt="GitHub Contribution"/>
   </a>
 </p>
 <p align = "center">
